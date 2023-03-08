@@ -1,0 +1,57 @@
+*{
+    background-color: rgb(146, 155, 164);
+}
+.Pantalon{
+    background-color: azure;
+    border-style: solid;
+    width: 230px; 
+}
+.Capuche{
+    background-color: azure;
+    border-style: solid;
+    width: 230px;  
+}
+.Veste{
+    background-color: azure;
+    border-style: solid;
+    width: 230px;
+}
+.aa{
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+    height: 487px;
+}
+h4{
+    display: flex;
+    justify-content: center;
+}
+h2{
+    display: flex;
+    justify-content: center;
+
+}
+.bb{
+    display: flex;
+    justify-content: center;
+}
+img{
+    border-radius: 25%;
+    margin-left: 54px;
+    margin-top: 7px;
+}
+.bacha{
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+}
+.kk{
+    color: red;
+}
+h1{
+    display: flex;
+    justify-content: center;
+}
+.qte{
+    font-size: 30px;
+}
